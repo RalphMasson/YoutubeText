@@ -114,7 +114,7 @@ Cette application Python fournit une interface pour traiter des vidéos YouTube 
 
 ## Licence
 
-Cette application est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
+Cette application est sous licence MIT. Consultez le fichier LICENCE pour plus de détails.
 
 ## Remerciements
 
