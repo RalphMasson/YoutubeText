@@ -1,11 +1,11 @@
 
 # Interface de Traitement des Vidéos YouTube et des Fichiers Audio
 
+Cette application Python fournit une interface pour traiter des vidéos YouTube et des fichiers audio. Elle permet de récupérer des transcriptions de vidéos YouTube, de convertir des fichiers audio en format WAV, de les découper en segments plus petits, et de transcrire chaque segment en texte.
+
 <p align="center">
   <img src="https://github.com/RalphMasson/YoutubeText/blob/main/YoutubeText_demo.jpg" width="400" />
 </p>
-
-Cette application Python fournit une interface pour traiter des vidéos YouTube et des fichiers audio. Elle permet de récupérer des transcriptions de vidéos YouTube, de convertir des fichiers audio en format WAV, de les découper en segments plus petits, et de transcrire chaque segment en texte.
 
 ## Fonctionnalités
 
